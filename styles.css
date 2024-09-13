@@ -1,1 +1,8 @@
-/*  your css code here. If applicable *
+/*  your css code here. If applicable */
+
+.bg{
+    background: yellow;
+}
+.col{
+    border: 1px solid black;
+}
